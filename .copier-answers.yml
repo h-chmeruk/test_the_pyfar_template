@@ -1,0 +1,29 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 70d971e
+_src_path: C:\Users\User\Documents\pyfar_contribution\template-pyfar-package
+add_submodules: false
+additional_section_readme: ''
+apt_packages: libsndfile1,
+author: The pyfar developers
+copyright_statement: 2026, The pyfar developers
+dependencies: numpy,scipy
+docs_custom_import: ''
+git_username: pyfar
+gitignore_custom: your/custom/path/,
+intersphinx_mapping:
+- numpy
+- gallery
+introduction_path: docs/gallery/interactive/test_project_introduction.ipynb
+keywords: acoustics,pyfar,testing
+license: MIT
+logo_path_gallery: resources/logos/pyfar_logos_fixed_size_test_project.png
+manifest_custom: ''
+minimum_python_version: '3.11'
+project_getting_started: just start!
+project_installation_instructions: just install!
+project_long_description: Just a project to test the copier template for pyfar packages.
+project_short_description: test project
+project_slug: test_project
+ruff_ignore: .git,docs
+use_pypi_deployment_with_ci: true
+version: 0.1.0
