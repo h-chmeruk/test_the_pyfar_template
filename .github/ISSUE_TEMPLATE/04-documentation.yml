@@ -19,4 +19,5 @@ body:
       Please describe as clearly as possible what topics you think are missing
       from the current documentation. Make sure to check the Examples
       https://pyfar-gallery.readthedocs.io/en/latest/examples
+  validations:
     required: false
